@@ -6,4 +6,6 @@ A special type of binary tree where each node has at most two children, the valu
 
 Each level of Binary search tree from root towards leaf will be traversed one by one. Every node on a level from right to left will be traversed and than, the next level will be traversed in the same way
 
+<img src=https://github.com/Mahadi2478/Binary-Search-Tree/blob/main/1461696188-8eddd12300-BST.png>
+
 
